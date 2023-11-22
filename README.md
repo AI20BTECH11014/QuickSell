@@ -1,1 +1,1 @@
-# QuickSell
+# QuickSell Kanban Board
